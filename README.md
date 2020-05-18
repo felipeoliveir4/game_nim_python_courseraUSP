@@ -1,10 +1,14 @@
-# game_nim_python_courseraUSP
+# Jogo do NIM - Curso Introdução à Ciência da Computação com Python Parte 1 - Coursera USP
+
+Trata-se de um jogo desenvolvido durante o curso oferecido pela USP de Introdução à Ciência da Computação com Python Parte 1 no Coursera.
+
+Descrição da atividade(by:https://www.coursera.org/learn/ciencia-computacao-python-conceitos/programming/yEPxE/programa-completo-jogo-do-nim)
 
 Você conhece o jogo do NIM? Nesse jogo, n peças são inicialmente dispostas numa mesa ou tabuleiro. Dois jogadores jogam alternadamente, retirando pelo menos 1 e no máximo m peças cada um. Quem tirar as últimas peças possíveis ganha o jogo.
 
 Existe uma estratégia para ganhar o jogo que é muito simples: ela consiste em deixar sempre múltiplos de (m+1) peças ao jogador oponente.
 
-#Objetivo
+Objetivo
 Você deverá escrever um programa na linguagem Python, versão 3, que permita a uma "vítima" jogar o NIM contra o computador. O computador, é claro, deverá seguir a estratégia vencedora descrita acima.
 
 Sejam n o número de peças inicial e m o número máximo de peças que é possível retirar em uma rodada. Para garantir que o computador ganhe sempre, é preciso considerar os dois cenários possíveis para o início do jogo:
